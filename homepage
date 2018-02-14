@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Net Neutrality </title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <script src="/script.js" defer></script>
+    <style>    
+      p {
+        text-align: center;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 20px;
+      }
+      a {
+        color: red;
+        text-decoration: none;
+      }
+      
+      ol {
+        font-family: 'Open Sans', sans-serif;
+      }
+      
+      ul {
+        font-family: 'Open Sans', sans-serif;
+        text-align: center;
+        list-style-type: none;
+      }
+      
+      li {
+        font-size: 20px;
+      }
+    </style>
+  </head>
+  
+  
+  <body>
+    <!--list of all pages on the website -->
+    
+    <h1>Net Neutrality</h1>
+    <ul>
+      <li> <a href="whatisnetneutrality.html">What is net neutrality?</a> </li>
+      <li> <a href="majorevents.html">Major Events and Terms</a></li>
+      <li> <a href="majorplayers.html">Major Players</a></li>
+      <li> <a href="whycare.html">Why should you care?</a></li>
+      <li> <a href="whatcanyoudo.html">What can you do?</a></li>
+    </ul>
+    <div class="middle">
+      <ol>
+        <li> blaah </li>
+        <li> blallah </li>
+        <li> blahblabh </li>
+      </ol>
+      
+      <img style="max-width:500px; height:auto;" 
+         src="https://news.nationalgeographic.com/content/dam/news/2017/04/27/frog-gallery/01-frog-day-gallery.jpg"
+         hspace="20">
+    </div>
+  
+  </body>
+</html>
